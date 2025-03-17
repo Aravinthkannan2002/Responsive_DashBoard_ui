@@ -48,7 +48,6 @@ To get started with this project, follow the steps below:
 
 ## ScreenShots:
 ![flutter_03](https://github.com/user-attachments/assets/8a9c81dd-61e3-48c2-91bd-1939e7b54fb9)
-![BusBuddy_mockup (1)](https://github.com/user-attachments/assets/06e8ae19-1086-43e9-a43e-241452d142ac)
 ![flutter_02](https://github.com/user-attachments/assets/2e725b09-7bc9-4145-a75a-700b5ab01cf2)
 ![flutter_01](https://github.com/user-attachments/assets/f0302318-292d-4946-81e1-af5c0370ec57)
 
